@@ -51,7 +51,7 @@ export default class Resources extends Component {
             <li>
               <a id="hpe-icons-sketch"
                 href={`${ROOT}/hpe/hpe-icons-1.4.sketch`}
-                target="_blank">Icons Sticker Sheet v1.2</a>
+                target="_blank">Icons Sticker Sheet v1.4</a>
             </li>
             <li>
               <a id="hpe-templates-sketch"
@@ -76,7 +76,7 @@ export default class Resources extends Component {
             <li>
               <a id="hpe-icons-pdf"
                 href={`${ROOT}/hpe/hpe-icons-1.4.pdf`}
-                target="_blank">Icons Sticker Sheet v1.1</a>
+                target="_blank">Icons Sticker Sheet v1.4</a>
             </li>
             <li>
               <a id="hpe-templates-pdf"
